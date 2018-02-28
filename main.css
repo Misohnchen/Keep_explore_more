@@ -4,6 +4,8 @@ body {
   justify-content: center;
   align-items: center;
   margin-top: 150px;
+  font-family: 'Josefin Sans', sans-serif;
+  background-color: #CCB3A6;
 }
 
 
@@ -13,7 +15,6 @@ H1{
   letter-spacing: 2px;
   margin-bottom: 0px;
 }
-
 
 .inputSection {
   margin: 50px 0px 80px 0px;
